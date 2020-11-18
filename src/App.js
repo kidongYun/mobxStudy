@@ -5,8 +5,6 @@ class App extends Component {
   render() {
     return (
       <div>
-        <CounterStore />
-        <hr />
         <SuperMarket />
       </div>
     );
